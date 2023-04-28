@@ -1,5 +1,6 @@
 import { publicIpv4 } from "public-ip";
 import * as dotenv from "dotenv";
+import fetch from "node-fetch";
 
 dotenv.config()
 
